@@ -1,0 +1,1 @@
+Pour plus d'info, se rendre sur la page web: https://www.datatables.net/
